@@ -1,6 +1,5 @@
-# DSA in C++
+# DSA Logic Building Problems in C++
 
-This repository contains C++ solutions for DSA problems.
 
 ## Problem List
 <!-- PROBLEM-LIST:START -->
