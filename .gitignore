@@ -1,7 +1,6 @@
-# C++ executables
-problems/1
-problems/2
-problems/tempCodeRunnerFile
+# C++ executables - ignore all files in problems/ without .cpp extension
+problems/*
+!problems/*.cpp
 
 # General
 .DS_Store
