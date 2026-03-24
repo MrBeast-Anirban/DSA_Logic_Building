@@ -27,7 +27,7 @@ def extract_problem_statement(file_path: Path) -> str | None:
 
 def github_file_url(file_path: Path) -> str:
     quoted_path = "/".join(quote(part) for part in file_path.as_posix().split("/"))
-    return f"https://github.com/{REPO_OWNER}/{REPO_NAME}/blob/{BRANCH}/{quoted_path}"
+    return f"https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/{BRANCH}/{quoted_path}"
 
 def build_problem_list() -> str:
     cpp_files = sorted(PROBLEMS_DIR.rglob("*.cpp"))
