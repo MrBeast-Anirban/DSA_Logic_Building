@@ -1,0 +1,9 @@
+# C++ executables
+problems/1
+problems/2
+problems/tempCodeRunnerFile
+
+# General
+.DS_Store
+*.o
+*.out
