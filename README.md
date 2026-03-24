@@ -8,5 +8,6 @@
 3. Check if a number is both divisible by 3 and 5. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/DividibleByBoth3And5.cpp)
 4. Check if a number is divisible by 5. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/IsNumberDivisibleBy5.cpp)
 5. Take two numbers and print the larger one among two. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/LargerAmongTwoNumber.cpp)
-6. Check if the given year is a leap year or not [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/YearIsLeapOrNot.cpp)
+6. Take three numbers and print the largest number among three. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/LargestAmongThreeNumbers.cpp)
+7. Check if the given year is a leap year or not [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/YearIsLeapOrNot.cpp)
 <!-- PROBLEM-LIST:END -->
