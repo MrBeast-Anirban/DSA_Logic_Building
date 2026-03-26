@@ -10,5 +10,6 @@
 5. Take two numbers and print the larger one among two. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/LargerAmongTwoNumber.cpp)
 6. Take three numbers and print the largest number among three. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/LargestAmongThreeNumbers.cpp)
 7. Check if the given year is a leap year or not [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/YearIsLeapOrNot.cpp)
-8. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
+8. Take a character and check whether it’s uppercase, lowercase, a digit, or a special character. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/identifyCharacter.cpp)
+9. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
 <!-- PROBLEM-LIST:END -->
