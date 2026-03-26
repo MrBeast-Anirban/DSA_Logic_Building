@@ -3,7 +3,6 @@
 
 ## Problem List
 <!-- PROBLEM-LIST:START -->
-#### Conditional Thinking (If–Else, Boolean Logic)
 1. Take a number and print whether it’s positive, negative, or zero. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/1.cpp)
 2. Check if a number is even or odd. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/2.cpp)
 3. Check if a number is both divisible by 3 and 5. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/DividibleByBoth3And5.cpp)
@@ -13,5 +12,4 @@
 7. Check if the given year is a leap year or not [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/YearIsLeapOrNot.cpp)
 8. Take a character and check whether it’s uppercase, lowercase, a digit, or a special character. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/identifyCharacter.cpp)
 9. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
-#### Nested If & Multiple Conditions
 <!-- PROBLEM-LIST:END -->
