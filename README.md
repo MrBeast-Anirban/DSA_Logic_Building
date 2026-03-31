@@ -14,5 +14,6 @@
 9. Check if the given year is a leap year or not [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/YearIsLeapOrNot.cpp)
 10. If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/TypeOfTriangle.cpp)
 11. Take three numbers and print the largest number among three. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/LargestAmongThreeNumbers.cpp)
-12. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
+12. Check if one of two given numbers is a multiple of the other. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CheckIsMultiple.cpp)
+13. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
 <!-- PROBLEM-LIST:END -->
