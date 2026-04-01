@@ -21,8 +21,9 @@
 16. Take three numbers and print the largest number among three. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/LargestAmongThreeNumbers.cpp)
 17. Take an alphabet character and check if it lies between ‘a’ and ‘m’ or ‘n’ and ‘z’. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/alphabetProblem.cpp)
 18. Take a 3-digit number and check if all digits are distinct. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/distinctDigitsInNumber.cpp)
-19. Check if one of two given numbers is a multiple of the other. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CheckIsMultiple.cpp)
-20. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
-21. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/midDigitSmallestOrLargest.cpp)
-22. Take a 4-digit number and check if the first and last digits are equal. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FirstAndLastDigitIsEqual.cpp)
+19. Check whether a given integer is single-digit, double-digit, or multi-digit. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/NumberIsSingleDoubleOrMultiDigits.cpp)
+20. Check if one of two given numbers is a multiple of the other. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CheckIsMultiple.cpp)
+21. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
+22. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/midDigitSmallestOrLargest.cpp)
+23. Take a 4-digit number and check if the first and last digits are equal. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FirstAndLastDigitIsEqual.cpp)
 <!-- PROBLEM-LIST:END -->
