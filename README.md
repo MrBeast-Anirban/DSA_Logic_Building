@@ -20,6 +20,7 @@
 15. If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/TypeOfTriangle.cpp)
 16. Take three numbers and print the largest number among three. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/LargestAmongThreeNumbers.cpp)
 17. Take an alphabet character and check if it lies between ‘a’ and ‘m’ or ‘n’ and ‘z’. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/alphabetProblem.cpp)
-18. Check if one of two given numbers is a multiple of the other. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CheckIsMultiple.cpp)
-19. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
+18. Take a 3-digit number and check if all digits are distinct. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/distinctDigitsInNumber.cpp)
+19. Check if one of two given numbers is a multiple of the other. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CheckIsMultiple.cpp)
+20. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
 <!-- PROBLEM-LIST:END -->
