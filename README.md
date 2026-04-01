@@ -23,4 +23,5 @@
 18. Take a 3-digit number and check if all digits are distinct. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/distinctDigitsInNumber.cpp)
 19. Check if one of two given numbers is a multiple of the other. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CheckIsMultiple.cpp)
 20. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
+21. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/midDigitSmallestOrLargest.cpp)
 <!-- PROBLEM-LIST:END -->
