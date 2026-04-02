@@ -32,5 +32,6 @@
 27. Check if one of two given numbers is a multiple of the other. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CheckIsMultiple.cpp)
 28. Take a character and check if it’s a vowel or consonant. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/vowelOrConsonant.cpp)
 29. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/midDigitSmallestOrLargest.cpp)
-30. Take a 4-digit number and check if the first and last digits are equal. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FirstAndLastDigitIsEqual.cpp)
+30. Take a number and print “Fizz” if divisible by 3, “Buzz” if divisible by 5, and “FizzBuzz” if divisible by both. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FizzBuzz.cpp)
+31. Take a 4-digit number and check if the first and last digits are equal. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FirstAndLastDigitIsEqual.cpp)
 <!-- PROBLEM-LIST:END -->
