@@ -7,10 +7,7 @@ int main() {
     cin >> angle1;
     cout << "Enter the second angle: ";
     cin >> angle2;
-
     int angle3 = 180 - (angle1 + angle2);
-
     cout << "The third angle is: " << angle3 << endl;
-
     return 0;
 }
