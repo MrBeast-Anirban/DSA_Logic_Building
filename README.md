@@ -46,5 +46,6 @@
 41. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/midDigitSmallestOrLargest.cpp)
 42. Take a number and print “Fizz” if divisible by 3, “Buzz” if divisible by 5, and “FizzBuzz” if divisible by both. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FizzBuzz.cpp)
 43. Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the origin. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CoordinatePosition2.cpp)
-44. Take a 4-digit number and check if the first and last digits are equal. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FirstAndLastDigitIsEqual.cpp)
+44. Take three numbers and check if they are in geometric progression. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/AreThreeNumbersInGP.cpp)
+45. Take a 4-digit number and check if the first and last digits are equal. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FirstAndLastDigitIsEqual.cpp)
 <!-- PROBLEM-LIST:END -->
