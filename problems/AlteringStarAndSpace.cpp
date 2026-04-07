@@ -1,4 +1,4 @@
-// PROBLEM: Print Stars and Spaces Alternating (Stars and Blank Spaces)
+// PROBLEM: Print Stars and Spaces Alternating (Stars and Blank Spaces replacing black space with 'b' character)
 #include<iostream>
 using namespace std;
 int main(){
