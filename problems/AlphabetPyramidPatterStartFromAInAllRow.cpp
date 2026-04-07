@@ -1,4 +1,11 @@
 // PROBLEM: Print a pyramid pattern of alphabets starting from 'A' in all rows. The number of rows is given as input.
+/*
+A
+A B 
+A B C
+A B C D
+A B C D E
+*/
 #include<iostream>
 using namespace std;
 int main(){
