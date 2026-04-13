@@ -10,4 +10,5 @@ int main(){
     cout << "Enter a number: ";
     cin >> n;
     cout << "The sum of the first " << n << " natural numbers is: " << findSum(n) << endl;
+    return 0;
 }
