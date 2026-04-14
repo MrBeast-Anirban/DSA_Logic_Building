@@ -17,5 +17,6 @@ int main(){
     string str;
     cout<<"Enter a string: ";
     cin>>str;
+    cout << "Number of vowels in the string: " << countVowels(str, 0) << endl;
     return 0;
 }
