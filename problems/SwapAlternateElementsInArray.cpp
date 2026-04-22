@@ -25,3 +25,9 @@ int main(){
     cout << endl;
     return 0;
 }
+
+/*
+Enter the size of the array: 5
+Enter the elements of the array: 1 2 3 4 5
+2 1 4 3 5 
+*/
