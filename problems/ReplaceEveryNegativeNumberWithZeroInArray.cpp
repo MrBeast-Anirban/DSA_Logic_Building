@@ -1,4 +1,4 @@
-// PROBLEM: Replace every negative number with 0.
+// PROBLEM: Replace every negative number with 0 in array.
 #include<iostream>
 using namespace std;
 int main(){
