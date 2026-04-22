@@ -1,3 +1,4 @@
+// PROBLEM: Count how many numbers are divisible by 3 and 5 both.
 #include<iostream>
 using namespace std;
 int main(){

@@ -1,4 +1,4 @@
-
+// PROBLEM: Find the count of prime numbers in the array.
 #include<iostream>
 using namespace std;
 int isPrime(int num){
