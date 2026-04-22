@@ -46,7 +46,7 @@
 41. Find the last occurrence of a given number in the array. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FindLastOccuranceOfElementInArray.cpp)
 42. Print from 1 to N using recursion. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/PrintFrom1toNUsingRecursion.cpp)
 43. Find the sum of odd elements only. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FindSumOfOddElementsInArray.cpp)
-44. Replace every negative number with 0. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/ReplaceEveryNegativeNumberWithZeroInArray.cpp)
+44. Replace every negative number with 0 in array. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/ReplaceEveryNegativeNumberWithZeroInArray.cpp)
 45. Calculate the sum of first n odd numbers recursively. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/SumOfFirstNOddNumbersRecursively.cpp)
 46. Print all factors of a given number. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/AllFactorsOfANumber.cpp)
 47. Monthnames [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/monthNames.cpp)
