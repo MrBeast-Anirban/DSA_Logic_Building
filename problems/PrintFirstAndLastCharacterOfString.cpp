@@ -6,7 +6,7 @@ using namespace std;
 int main(){
     string s;
     cout << "Enter a string: ";
-    getline(cin, s);
+    getline(cin, s); // this will include the space in the string if there is any, unlike cin >> s which stops at the first space
     if(s.length() > 0){
         cout << "First character: " << s[0] << endl;
         cout << "Last character: " << s[s.length() - 1] << endl;
