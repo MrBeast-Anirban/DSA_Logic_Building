@@ -17,6 +17,6 @@ int main(){
     return 0;
 }
 /*
-Enter a sentence: anirban maitra
-Number of words: 2
+Enter a sentence: anirban maitra is a software engineer.
+Number of words: 6
 */
