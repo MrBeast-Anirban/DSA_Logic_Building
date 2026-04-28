@@ -173,7 +173,7 @@
 168. Type 2: Write a program to print the increasing and decreasing pattern of stars in each row. The number of rows is given as input. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/RowWiseIncreaseAndDecreaseOfStarsPatternType2.cpp)
 169. Compare two arrays — check if they contain the same elements (ignore order). [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CompareTwoArraysIfTheyAreEqualWithoutOrder.cpp)
 170. Find the second smallest element in an array. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FindTheSecondSmallestElementInArray.cpp)
-171. Findfrequencyofcharactersinastringwithoutusingmap [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FindFrequencyOfCharactersInAStringWithoutUsingMap.cpp)
+171. Find the frequency of each character in a string (without using a map). [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/FindFrequencyOfCharactersInAStringWithoutUsingMap.cpp)
 172. Print from 1 to N using recursion. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/PrintFrom1toNUsingRecursion.cpp)
 173. Print all the numbers from 1 to 100 whose sum is odd. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/NumbersFrom1to100WhoseSumIsOdd.cpp)
 174. Take three sides and check if they form a valid triangle. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/ValidTriangle.cpp)
