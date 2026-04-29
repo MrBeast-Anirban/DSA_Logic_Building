@@ -170,7 +170,7 @@
 165. Given a number print those many stars in a row. For example, if the number is 5 then print *****. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/PrintNStars.cpp)
 166. Count how many times a given element appears. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CountFrequencyOfAnElementInArray.cpp)
 167. Print numbers from 1 to 10. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/PrintNumbersFrom1to10.cpp)
-168. Removeallvowelswithstar [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/RemoveAllVowelsWithStar.cpp)
+168. Replace all vowels from a string with stars. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/RemoveAllVowelsWithStar.cpp)
 169. Count how many pairs of elements have a sum equal to a given number k. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/CountNumberOfTwoSumPairs.cpp)
 170. Print an Increasing Triangle of Stars [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/IncreasingTriangleStars.cpp)
 171. Reverse a number recursively. [[link]](https://github.com/MrBeast-Anirban/DSA_Logic_Building/blob/main/problems/ReverseNumberRecursively.cpp)
