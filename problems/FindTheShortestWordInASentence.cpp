@@ -1,10 +1,10 @@
-// PROBLEM: Find the longest word in a sentence.
+// PROBLEM: Find the shortest word in a sentence.
 #include<iostream>
 #include<string>
 using namespace std;
 int main(){
-    string s, currentWord = "", LongestWord = "";
-    int current = 0, maxWordLength = 0;
+    string s, currentWord = "", shortestWord = "";
+    int current = 0, minWordLength = INT_MAX;
     cout << "Enter the string: ";
     getline(cin, s);
     for(int i = 0; i < s.length(); i++){
@@ -15,22 +15,22 @@ int main(){
             }
         }
         else{
-            if(maxWordLength < current){
-                maxWordLength = current;
-                LongestWord = currentWord;
+            if(minWordLength > current){
+                minWordLength = current;
+                shortestWord = currentWord;
             }
             current = 0;
             currentWord = "";
         }
     }
-    if(maxWordLength < current){
-        maxWordLength = current;
-        LongestWord = currentWord;
+    if(minWordLength > current){
+        minWordLength = current;
+        shortestWord = currentWord;
     }
-    cout << "The longest in the sentence is \"" << LongestWord << "\" of length " << maxWordLength << "." << endl;
+    cout << "The longest in the sentence is \"" << shortestWord << "\" of length " << minWordLength << "." << endl;
     return 0;
 }
 /*
 Enter the string: You merely adopted the dark, I was born in it!
-The longest in the sentence is "adopted" of length 7.
+The longest in the sentence is "I" of length 1.
 */
