@@ -21,3 +21,7 @@ int main(){
     cout << "The string after swapping cases is: " << result << endl;
     return 0;
 }
+/*
+Enter a string: AnirbanMaitra
+The string after swapping cases is: aNIRBANmAITRA
+*/

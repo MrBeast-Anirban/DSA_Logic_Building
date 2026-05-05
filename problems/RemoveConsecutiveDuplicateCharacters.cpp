@@ -19,3 +19,7 @@ int main(){
     cout << "The string after removing consecutive duplicate characters is: " << result << endl;
     return 0;
 }
+/*
+Enter a string: aaabbbcccddd
+The string after removing consecutive duplicate characters is: abcd
+*/

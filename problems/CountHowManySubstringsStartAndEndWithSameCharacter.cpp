@@ -17,6 +17,6 @@ int main(){
 }
 /*
 Enter a string: anirban
-The number of substrings that start and end with the same character is: 10
-The substrings are: "a", "anirbana", "n", "nirban", "i", "r", "b", "a", "n", "anirban"
+The number of substrings that start and end with the same character is: 9
+The substrings are: "a", "anirba", "n", "nirban", "i", "r", "b", "a", "n"
 */
