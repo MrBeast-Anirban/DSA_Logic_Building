@@ -18,7 +18,7 @@ bool isArmstrong(int n){
     else return false;
 }
 int main(){
-    cout << "Following are the armstrong numbers between 1 and 1000: ";
+    cout << "Following are the Armstrong Numbers between 1 and 1000: ";
     for(int i = 1; i <= 1000; i++){
         if(isArmstrong(i)){
             cout << i << endl;
@@ -26,6 +26,7 @@ int main(){
     }
     return 0;
 }
+
 /*
 Following are the armstrong numbers between 1 and 1000: 1
 2
