@@ -1,6 +1,7 @@
 // PROBLEM: Print all Armstrong numbers between 1 and 1000.
 #include<iostream>
 using namespace std;
+//function to check whether a armstrong or not
 bool isArmstrong(int n){
     int temp, power = 0, digit = 0, sum = 0;
     temp = n;
