@@ -22,4 +22,4 @@ int main(){
 Enter a string: It doesnot matter who I am underneath, but what I do that defines me!!!
 The characters with frequency greater than 1 is: 
   ! I a d e h m n o r s t u w
-  */
+*/
