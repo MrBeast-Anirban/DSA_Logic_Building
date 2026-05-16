@@ -14,3 +14,6 @@ int main(){
     cout << "The max element is " << max << " and min element is " << min << "." << endl;
     return 0;
 }
+/*
+The max element is 9 and min element is 1.
+*/
