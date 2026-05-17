@@ -1,4 +1,4 @@
-// PROBLEM: The number of even elements at even indices is: 3
+// PROBLEM: Merge two arrays into one.
 #include<iostream>
 using namespace std;
 int main(){
