@@ -19,3 +19,7 @@ int main(){
     cout << endl;
     return 0;
 }
+/*
+Pairs in the array whose sum equals to 10 are: 
+(2, 8) (4, 6) (3, 7) (5, 5) 
+*/
